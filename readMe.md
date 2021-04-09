@@ -1,0 +1,9 @@
+- 初始化数据库时，注意建表的顺序
+  - 1 tag
+  - 2 category
+  - 3 user
+  - 4 atricle
+  - 5 tagArtcle
+  - 6 comment
+  - 7 userCollectionArticle
+  - 8 userFavouriteArticle
